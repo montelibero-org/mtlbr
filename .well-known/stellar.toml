@@ -1,0 +1,39 @@
+# Montelibero Stellar Anchor <https://montelibero.org>
+# https://github.com/stellar/stellar-protocol/tree/master/ecosystem
+
+ACCOUNTS=[
+"GAMU3C7Q7CUUC77BAN5JLZWE7VUEI4VZF3KMCMM3YCXLZPBYK5Q2IXTA",
+"GDR7FSCJF6PXSQQN5XCQM2OCYE3PRGY7PA33FQSBHLRND6ROWX6CQNLV"
+]
+
+[DOCUMENTATION]
+ORG_NAME="MTLBR"
+ORG_DBA="MTLBR"
+ORG_URL="https://mtlbr.montelibero.org"
+ORG_LOGO="https://mtlbr.montelibero.org/images/mtlbr-small-logo.png"
+ORG_DESCRIPTION="MTLBR - "
+ORG_GITHUB="montelibero-org"
+ORG_OFFICIAL_EMAIL="montelibero.fspe@gmail.com"
+ORG_SUPPORT_EMAIL="montelibero.fspe@gmail.com"
+
+[[CURRENCIES]]
+code="MTLBR"
+issuer="GAMU3C7Q7CUUC77BAN5JLZWE7VUEI4VZF3KMCMM3YCXLZPBYK5Q2IXTA"
+status="live"
+display_decimals=7
+anchor_asset_type="other"
+is_unlimited=true
+name=" MTLBR"
+desc="MTLBR - "
+image="https://mtlbr.montelibero.org/images/mtlbr-small-logo.png"
+
+[[CURRENCIES]]
+code="MTLBRO"
+issuer="GAMU3C7Q7CUUC77BAN5JLZWE7VUEI4VZF3KMCMM3YCXLZPBYK5Q2IXTA"
+status="live"
+display_decimals=7
+anchor_asset_type="other"
+is_unlimited=true
+name=" MTLBRO"
+desc="MTLBRO - "
+image="https://mtlbr.montelibero.org/images/mtlbr-small-logo.png"
