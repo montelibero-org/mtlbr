@@ -11,7 +11,7 @@ ORG_NAME="MTLBR"
 ORG_DBA="MTLBR"
 ORG_URL="https://mtlbr.montelibero.org"
 ORG_LOGO="https://mtlbr.montelibero.org/images/mtlbr-small-logo.png"
-ORG_DESCRIPTION="MTLBR - "
+ORG_DESCRIPTION="MTLBR - a commercial company engaged in the construction of houses, finishing works, landscaping, installation of communications and other construction work in Montenegro."
 ORG_GITHUB="montelibero-org"
 ORG_OFFICIAL_EMAIL="montelibero.fspe@gmail.com"
 ORG_SUPPORT_EMAIL="montelibero.fspe@gmail.com"
@@ -24,7 +24,7 @@ display_decimals=7
 anchor_asset_type="other"
 is_unlimited=true
 name=" MTLBR"
-desc="MTLBR - "
+desc="MTLBR - a digital guarantee of the performance of a construction company in a specified amount of funds, from repair work to the construction of a house or a quarter for you, at the rate of 1 token - 1 euro of builders' services."
 image="https://mtlbr.montelibero.org/images/mtlbr-small-logo.png"
 
 [[CURRENCIES]]
