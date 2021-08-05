@@ -23,7 +23,7 @@ status="live"
 display_decimals=7
 anchor_asset_type="other"
 is_unlimited=true
-name=" MTLBR"
+name="MTLBR"
 desc="MTLBR - a digital guarantee of the performance of a construction company in a specified amount of funds, from repair work to the construction of a house or a quarter for you, at the rate of 1 token - 1 euro of builders' services."
 image="https://mtlbr.montelibero.org/images/mtlbr-small-logo.png"
 
@@ -34,6 +34,6 @@ status="live"
 display_decimals=7
 anchor_asset_type="other"
 is_unlimited=true
-name=" MTLBRO"
-desc="MTLBRO - "
+name="MTLBRO"
+desc="MTLBRO - a digital guarantee of the performance of a construction company in a specified amount of funds, from repair work to the construction of a house or a quarter for you, at the rate of 1 token - 1 euro of builders' services."
 image="https://mtlbr.montelibero.org/images/mtlbro-small-logo.png"
