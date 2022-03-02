@@ -37,3 +37,14 @@ is_unlimited=true
 name="MTLBRO"
 desc="MTLBRO - a digital guarantee of the performance of a construction company in a specified amount of funds, from repair work to the construction of a house or a quarter for you, at the rate of 1 token - 1 euro of builders' services."
 image="https://mtlbr.montelibero.org/images/mtlbro-small-logo.png"
+
+[[CURRENCIES]]
+code="MTLDVL"
+issuer="GAMU3C7Q7CUUC77BAN5JLZWE7VUEI4VZF3KMCMM3YCXLZPBYK5Q2IXTA"
+status="live"
+display_decimals=7
+anchor_asset_type="other"
+is_unlimited=true
+name="MTL developer"
+desc="MTLDVL is a token that fixes the obligations of a construction company to invest the funds received from its sale in construction projects, subsequently paying investment income or exchanging tokens for built real estate."
+image="https://mtlbr.montelibero.org/images/mtldvl-small-logo.png"
