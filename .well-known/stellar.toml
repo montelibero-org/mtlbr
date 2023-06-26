@@ -48,3 +48,14 @@ is_unlimited=true
 name="MTL developer"
 desc="MTLDVL is a token that fixes the obligations of a construction company to invest the funds received from its sale in construction projects, subsequently paying investment income or exchanging tokens for built real estate."
 image="https://mtlbr.montelibero.org/images/mtldvl-small-logo.png"
+
+[[CURRENCIES]]
+code="MAT"
+issuer="GBJ3HT6EDPWOUS3CUSIJW5A4M7ASIKNW4WFTLG76AAT5IE6VGVN47TIC"
+status="live"
+display_decimals=7
+is_unlimited=true
+name="Materials token"
+desc="One MAT token is equal to one EURMTL, the total emission of MAT tokens put into circulation is equal to the amount of funds in EURMTL actually spent on the wholesale purchase of materials ordered by the participants"
+conditions="The number of MAT tokens held by any of their holders fixes its share in the materials price and the right to exchange them for ordered goods, use as an asset in mortgage and other investment projects or transfer to third parties. Full offer see  montelibero.org/2023/06/19/mat_token_offer"
+image="https://mtlbr.montelibero.org/images/mat-small-logo.png"
